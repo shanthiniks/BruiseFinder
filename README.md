@@ -17,6 +17,11 @@ Model equipped with early bruise detection.
 <img src="D2T5P1_12.png" alt="" width="100"/>Bruised(12 hour)
 <img src="D2T5P1_48.png" alt="" width="100"/> Bruised(48 hour)
 
+# data 📷
+You can download sample data [[here](https://drive.google.com/file/d/1zSMGakhsenXTL4AzUN68OGVbuOdDq3CP/view?usp=drive_link)](URL)
+
+https://drive.google.com/file/d/1zSMGakhsenXTL4AzUN68OGVbuOdDq3CP/view?usp=drive_link
+
 # Requirements 🔧
 
 Matlab 2024a.
