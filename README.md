@@ -18,8 +18,8 @@ Model equipped with early bruise detection.
 <img src="D2T5P1_48.png" alt="" width="100"/> Bruised(48 hour)
 
 # Data 💾 
-You can download sample data [here](https://drive.google.com/file/d/1zSMGakhsenXTL4AzUN68OGVbuOdDq3CP/view?usp=drive_link)
-You can download sample data [here](https://drive.google.com/file/d/1lrrXnaK_AN7pkNMgXPxT-J6yTcCHQbk6/view?usp=drive_link)
+Download pre-trained weights [here](https://drive.google.com/file/d/1zSMGakhsenXTL4AzUN68OGVbuOdDq3CP/view?usp=drive_link).                                                                                  
+Download sample data [here](https://drive.google.com/file/d/1lrrXnaK_AN7pkNMgXPxT-J6yTcCHQbk6/view?usp=drive_link)
 
 # Requirements 🔧
 
