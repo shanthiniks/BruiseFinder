@@ -21,6 +21,9 @@ Model equipped with early bruise detection.
 
 Matlab 2024a.
 
+# 🎓 How to train
+  Run the main code SSCNNcode.m
+
 # Code Release 📂
 
 The full code will be made available following the publication of the paper.
