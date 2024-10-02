@@ -1,9 +1,9 @@
-# Bruise Finder 🍒🔍
+#  Bruise Finder 🍒🔍 
 
 
 This is the code for bruise detection and categorization in plum fruit
 
-# Key Features 🔑
+#  Key Features 🔑 
 A convolutional neural network (CNN) model that leverages 3D convolutional layers to integrate spatial and spectral features from hyperspectral data, enabling accurate bruise analysis in plum fruit. 
 
 Capable to monitor bruise development over time (30 minutes, 1 hour, 3 hours, 6 hours, 12 hours, 24 hours, and 48 hours).
@@ -17,14 +17,15 @@ Model equipped with early bruise detection.
 <img src="D2T5P1_12.png" alt="" width="100"/>Bruised(12 hour)
 <img src="D2T5P1_48.png" alt="" width="100"/> Bruised(48 hour)
 
-# data 📷
+# Data 💾 
 You can download sample data [[here](https://drive.google.com/file/d/1zSMGakhsenXTL4AzUN68OGVbuOdDq3CP/view?usp=drive_link)]
 
 # Requirements 🔧
 
 Matlab 2024a.
 
-# 🎓 How to train
+# How to train 🎓 
+  Download the data using the link given above.
   Run the main code SSCNNcode.m
 
 # Code Release 📂
