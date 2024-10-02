@@ -10,11 +10,17 @@ Capable to monitor bruise development over time (30 minutes, 1 hour, 3 hours, 6 
 
 Model equipped with early bruise detection.
 
-# Sample images
+# Sample Images 📷
 
+<img src="D2T5P1_before.png" alt="" width="100"/> Unbruised
+<img src="D2T5P1_6.png" alt="" width="100"/> Bruised(6 hour)
+<img src="D2T5P1_12.png" alt="" width="100"/>Bruised(12 hour)
+<img src="D2T5P1_48.png" alt="" width="100"/> Bruised(48 hour)
 
-# Requirements
+# Requirements 🔧
+
 Matlab 2024a.
 
-# Releasing the code
+# Code Release 📂
+
 The full code will be made available following the publication of the paper.
