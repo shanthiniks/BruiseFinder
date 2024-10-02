@@ -1,4 +1,4 @@
-#  Bruise Finder 🍒🔍 
+#  BruiseFinder 🍒🔍 
 
 
 This is the code for bruise detection and categorization in plum fruit
