@@ -26,8 +26,7 @@ Download sample data [here](https://drive.google.com/file/d/1lrrXnaK_AN7pkNMgXPx
 Matlab 2024a.
 
 # How to train 🎓 
-  Download the data using the link given above.
-  Run the main code SSCNNcode.m
+  Download the data using the link given above.<br> Run the main code SSCNNcode.m
 
 # Code Release 📂
 
