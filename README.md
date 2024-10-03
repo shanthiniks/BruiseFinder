@@ -1,7 +1,12 @@
-#  BruiseFinder 🍒🔍 
+#  BruiseFinder: Early Detection and Classification of Bruise in Plum Fruit 🍒🔍 
 
-
-This is the code for bruise detection and categorization in plum fruit
+Hyperspectral images of both unbruised plums and plums with impact-induced bruises are captured at seven different time intervals 
+(30 minutes, 1 hour, 3 hours, 6 hours, 12 hours, 24 hours, and 48 hours). These images are used for early bruise detection and classification of bruise in plum fruit.
+The technology also aims to differentiate between natural fruit decay and bruising. <br><br>
+This code is based on the paper:
+SS-CNN BruiseFinder: Hyperspectral Imaging and CNN-Driven
+Spatial-Spectral Fusion for Non-Destructive Plum Bruise Analysis
+Shanthini K.S., Sudhish N. George, Jobin Francis and Sony George.
 
 #  Key Features 🔑 
 A convolutional neural network (CNN) model that leverages 3D convolutional layers to integrate spatial and spectral features from hyperspectral data, enabling accurate bruise analysis in plum fruit. 
@@ -31,3 +36,6 @@ Matlab 2024a.
 # Code Release 📂
 
 The full code will be made available following the publication of the paper.
+
+# Citation
+Will be updated soon............
