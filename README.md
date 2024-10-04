@@ -1,4 +1,4 @@
-#  BruiseFinder: Early Detection and Classification of Bruise in Plum Fruit 🍒🔍 
+#  BruiseFinder: Early Detection and Classification of Bruise in Plum Fruit using Hyperspectral Images🍒🔍 
 
 Hyperspectral images of both unbruised plums and plums with impact-induced bruises are captured at seven different time intervals 
 (30 minutes, 1 hour, 3 hours, 6 hours, 12 hours, 24 hours, and 48 hours). These images are used for early bruise detection and classification of bruise in plum fruit.
