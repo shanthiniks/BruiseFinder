@@ -9,11 +9,14 @@ Spatial-Spectral Fusion for Non-Destructive Plum Bruise Analysis
 Shanthini K.S., Sudhish N. George, Jobin Francis and Sony George.
 
 #  Key Features 🔑 
+
 A convolutional neural network (CNN) model that leverages 3D convolutional layers to integrate spatial and spectral features from hyperspectral data, enabling accurate bruise analysis in plum fruit. 
 
-Capable to monitor bruise development over time (30 minutes, 1 hour, 3 hours, 6 hours, 12 hours, 24 hours, and 48 hours).
+This innovative technology integrates hyperspectral imaging with deep learning, with unprecedented analytical capabilities.
 
-Model equipped with early bruise detection.
+Capable of monitoring bruise development over time (30 minutes, 1 hour, 3 hours, 6 hours, 12 hours, 24 hours, and 48 hours).
+
+The model is also equipped with early bruise detection.
 
 # Sample Images 📷
 
