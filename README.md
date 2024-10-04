@@ -9,6 +9,7 @@ Spatial-Spectral Fusion for Non-Destructive Plum Bruise Analysis
 Shanthini K.S., Sudhish N. George, Jobin Francis and Sony George.
 
 #  Key Features 🔑 
+This research replicates real-world scenarios in which handling and transportation can cause damage to the fruit which ensures the practical relevance of the research.
 
 A convolutional neural network (CNN) model that leverages 3D convolutional layers to integrate spatial and spectral features from hyperspectral data, enabling accurate bruise analysis in plum fruit. 
 
